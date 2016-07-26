@@ -1,3 +1,3 @@
 # functional_progrmaming
 
-- Functors are functions which utilize map to return a result
+- Functors are objects that implement the `map` function. E.g. Arrays, streams, trees
